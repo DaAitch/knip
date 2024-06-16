@@ -1,0 +1,7 @@
+{
+  "name": "@fixtures/gitignore-scope",
+  "main": "index.mjs",
+  "dependencies": {
+    "glob": "^10.3.12"
+  }
+}
